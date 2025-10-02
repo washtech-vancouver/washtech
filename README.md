@@ -4,6 +4,8 @@ Vancouver’s trusted exterior cleaning and property solutions company
 ## About
 WashTech is a Vancouver-based company specializing in exterior cleaning for residential and commercial properties. We focus on delivering reliable, eco-friendly, and cost-effective services that protect and enhance property value.
 
+This repository is a public resource containing SOPs, guides, and workflows designed to help homeowners and businesses maintain and improve their properties.
+
 ## Services
 - Pressure washing (driveways, siding, decks)
 
